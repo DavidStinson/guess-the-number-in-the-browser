@@ -12,11 +12,6 @@ form {
   margin-top: 24px;
 }
 
-#guessInput {
-  border-radius: .25rem;
-  padding: 5px 5px 5px 5px;
-}
-
 #prevGuessesMsg {
   font-size: 24px;
   margin-top: 24px;
